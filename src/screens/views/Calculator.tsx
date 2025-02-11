@@ -1,8 +1,8 @@
 import * as React from 'react'
 import {View,StyleSheet} from 'react-native'
-import CountButton from '../../buttons/CountButton'
-import CountLabel from '../../label/CountLabel'
-import { useCalculatorViewModel } from '../../../../viewModels/useCalculatorViewModel'
+import CountButton from '../../components/buttons/CountButton'
+import CountLabel from '../../components/labels/CountLabel'
+import { useCalculatorViewModel } from '../../viewModels/useCalculatorViewModel'
 
 
 

@@ -11,7 +11,7 @@ import {
   View,
 } from 'react-native';
 
-import Calculator from './src/assets/componets/screens/views/Calculator';
+import Calculator from './src/screens/views/Calculator';
 
 
 
